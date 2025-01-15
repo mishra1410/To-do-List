@@ -1,11 +1,7 @@
 # To-do-List
 A fully-featured to-do list application built with Node.js, Express.js, and PostgreSQL, showcasing CRUD operations with database persistence.
 
-Permalist – Permanent To-Do List
-A fully-featured to-do list application built with Node.js, Express.js, and PostgreSQL, showcasing CRUD operations with database persistence.
-
 Features:
-
 User-friendly interface to add, edit, delete, and cross out tasks, with changes instantly reflected in the database.
 Persistent storage in a PostgreSQL database, ensuring data remains intact across server restarts.
 Organized EJS templates with partials for cleaner and reusable front-end code.
